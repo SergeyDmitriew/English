@@ -1,0 +1,211 @@
+Show me your driving licence, please	Покажите ваши водительские права
+Do you know how fast you were going?	Вы знаете, с какой скоростью вы ехали?
+Do you have insurance on this vehicle?	У вас есть страховка на машину?
+Could I see your insurance documents?	Покажите вашу страховку
+Have you had anything to drink?	Вы принимали алкоголь?
+How much have you had to drink?	Сколько вы выпили?
+Could you blow into this tube, please?	Подуйте в эту трубку, пожалуйста
+	
+Do you know where I can get a taxi?	Вы не знаете, где можно поймать такси?
+Do you have a taxi number?	У вас есть номер такси?
+I’d like a taxi, please	Я хотел бы заказать такси
+Sorry, there are none available at the moment	Извините, сейчас свободных такси нет
+Where are you?	Где вы находитесь?
+What’s the address?	Какой адрес?
+I’m ...	я ...
+at the Beresford Hotel	в отеле «Бересфорд»
+at the airport	в аэропорту
+at the corner of Highgate Road and Millfield Lane	на углу Хайгейт-роуд и Миллфилд-лейн
+Could I take your name, please?	Назовите свое имя, пожалуйста
+How long will I have to wait?	Как долго мне придется ждать?
+The car is on its way	Машина в пути
+	
+Where would you like to go?	Куда бы вы хотели поехать?
+Take me to this address, please	Отвезите меня по этому адресу, пожалуйста
+I need to go to Charing Cross station	Мне нужно поехать на станцию «Чаринг Кросс»
+Could you take me to the city centre?	Не могли бы вы отвезти меня в центр города?
+How much will it cost?	Сколько это будет стоить?
+Could we stop at a cashpoint?	Могли бы мы остановиться у банкомата?
+How long will the journey take?	Сколько времени займет дорога?
+May I open the window?	Я могу открыть окно?
+May I close the window?	Я могу закрыть окно?
+How much is it?	Сколько я должен?
+Keep the change	Оставьте сдачу себе
+Would you like a receipt?	Вы желаете чек?
+Could I have a receipt, please?	Могу я получить чек, пожалуйста?
+Could you pick me up here at seven o’clock?	Вы могли бы забрать меня отсюда в семь часов?
+Could you wait for me here?	Вы могли бы подождать меня здесь?
+	
+Where is the ticket office?	Где находится касса?
+Where are the ticket machines?	Где находятся билетные автоматы?
+What time is the next bus to Rochester?	Во сколько идет следующий автобус на Рочестер?
+What time is the next train to Liverpool?	Во сколько идет следующий поезд на Ливерпуль?
+Can I buy a ticket on the bus?	Можно ли купить билет прямо в автобусе?
+Can I buy a ticket on the train?	Можно ли купить билет прямо в поезде?
+How much is a single ticket to London?	Сколько стоит билет в один конец до Лондона?
+How much is a return ticket to Manchester?	Сколько стоит билет в оба конца до Манчестера?
+I’d like a ... to Sheffield	Я хотел бы ... до Шеффилда
+single	билет в один конец
+return	билет в оба конца
+child single	детский билет в один конец
+child return	детский билет в оба конца
+senior citizens’ single	пенсионерский билет в один конец
+senior citizens’ return	пенсионерский билет в оба конца
+first class single	билет первого класса в один конец
+first class return	билет первого класса в оба конца
+Are there reductions for off-peak travel?	Есть ли скидки на билеты не в час-пик?
+When would you like to travel?	Когда вы хотели бы выехать?
+When will you be coming back?	Когда бы вы хотели вернуться?
+Which platform do I need for Birmingham?	Какая платформа на Бирмингем?
+Is this the right platform for Cardiff?	Это правильная платформа для Кардиффа?
+Where should I change trains?	Где мне нужно сделать пересадку?
+You’ll have to change at Kirkby	Вам нужно сделать пересадку в Киркби
+Is this the current timetable?	Это действующее расписание?
+How often do the buses run to Plymouth?	Как часто ходят автобусы на Плимут?
+how often do the trains run to York?	Как часто ходят поезда на Йорк?
+I’d like to renew my season ticket, please	Я хотел бы продлить сезонный билет, пожалуйста
+	
+Does this bus stop at Trafalgar Square?	Этот автобус останавливается на Трафальгарской площади?
+Does this train stop at Leicester?	Этот поезд останавливается в Лейчестере?
+Could you tell me when we get to the university?	Скажите мне, пожалуйста, когда мы доедем до университета.
+Is this seat free?	Это место свободно?
+Is this seat taken?	Это место занято?
+Do you mind if I sit here?	Не возражаете, если я здесь сяду?
+Tickets, please	Билеты, пожалуйста
+Could I see your ticket, please?	Покажите ваш билет, пожалуйста
+I’ve lost my ticket	Я потерял билет
+What time do we arrive in Sheffield?	Во сколько мы прибываем в Шеффилд?
+What is this stop?	Какая это остановка?
+What is the next stop?	Какая следующая остановка?
+This is my stop	Это моя остановка
+I’m getting off here	Я выхожу здесь
+Is there a dining car on the train?	В поезде есть вагон-ресторан?
+Do you mind if I open the window?	Вы не возражаете, если я открою окно?
+We are now approaching London Kings Cross	Мы прибываем на станцию Кингс-кросс
+This train terminates here	Этот поезд дальше не идет
+Please take all your luggage and personal belongings with you	Не забудьте забрать багаж и все личные вещи
+	
+Tickets	Билеты
+Platform	Платформа
+Waiting room	Зал ожидания
+Lost property (Lost & found)	Бюро находок
+Underground	Метро
+Bus stop	Автобусная остановка
+Request stop	Остановка по требованию
+On time	Вовремя
+Expected	Прибывает
+Delayed	Задерживается
+Cancelled	Отменен
+Calling at ...	Останавливается в ...
+Priority seat	Специальные места (для беременных, пожилых, инвалидов)
+To trains	К поездам
+Trains to London	Поезда на Лондон
+Way out	Выход
+Mind the gap	Осторожно, щель
+	
+Your passport and ticket, please	Ваш паспорт и билет, пожалуйста
+I’ve come to collect my tickets	Я хотел бы забрать свой билет
+I booked on the internet	Я заказал билет в интернете
+Do you have your booking reference?	У вас есть код бронирования?
+Here’s my booking reference	Это мой код бронирования
+Where are you flying to?	Куда вы летите?
+Do you have any liquids or sharp objects in your hand baggage?	В вашем багаже есть жидкости или острые предметы?
+How many bags are you checking in?	Сколько сумок вы сдаете?
+Could I see your hand baggage, please?	Покажите вашу ручную кладь, пожалуйста
+Do I need to check this in or can I take it with me?	Я должен это сдать или могу взять с собой?
+There’s an excess baggage charge of £20	Дополнительная плата за багаж 20 фунтов
+Would you like a window or an aisle seat?	Вы хотите сидеть у окна или в проходе?
+	
+Are you carrying any liquids?	У вас есть с собой какие-либо жидкости?
+Could you take off your ... please?	Снимите ..., пожалуйста
+coat	пальто
+shoes	обувь
+belt	ремень
+Could you put any metallic objects into the tray, please?	Положите металлические предметы на поднос, пожалуйста
+Please empty your pockets	Освободите карманы, пожалуйста
+Please take your laptop out of its case	Пожалуйста достаньте ноутбук из сумки
+I’m afraid you can’t take that through	К сожалению, вы не можете взять это с собой
+	
+What is the flight number?	Какой номер рейса?
+Which gate do we need?	Какие у нас ворота?
+The flight has been delayed	Рейс задерживается
+The flight has been cancelled	Рейс отменен
+We’d like to apologise for the delay	Мы хотели бы извиниться за задержку
+Could I see your passport and boarding card, please?	Покажите ваш паспорт и посадочный талон, пожалуйста
+	
+Where is this seat?	Где это место?
+What’s your seat number?	Какой у вас номер места?
+Could I change seats with you?	Вы могли бы поменяться со мной местами?
+Please pay attention to this short safety demonstration	Пожалуйста, обратите внимание на демонстрацию техники безопасности
+Please turn off all mobile phones and electronic devices	Пожалуйста, отключите мобильные телефоны и электронные приборы
+How long does the flight take?	Сколько времени продлится полет?
+Would you like any food or refreshments?	Вы желаете еду или напитки?
+We’ll be landing in about 15 minutes	Мы приземлимся примерно через 15 минут
+	
+Short stay	Краткосрочная парковка
+Long stay	Долгосрочная парковка
+Arrivals	Прибытие
+Departures	Отправление
+International check-in	Международная регистрация
+International arrivals	Прибытие международных рейсов
+Domestic flights	Местные рейсы
+Toilets	Туалеты
+Information	Информация
+Ticket offices	Кассы
+Lockers	Хранилище
+Payphones	Телефон-автомат
+Restaurant	Ресторан
+Check-in	Регистрация
+Gates 1-32	Ворота 1-32
+Duty free shopping	Магазины дьюти-фри
+Transfers	Пересадка
+Flight connections	Пересадка
+Baggage claim	Выдача багажа
+Passport control	Паспортный контроль
+Customs	Таможня
+Taxis	Такси
+Car hire	Прокат автомобилей
+Departures board	Отправляющиеся рейсы
+Delayed	Задержка
+Cancelled	Отмена
+Now boarding	Посадка
+Last call	Последний вызов
+Gate closing	Ворота закрываются
+Gate closed	Ворота закрыты
+Departed	Вылетел
+Arrivals board	Прибывающие рейсы
+Expected 21:35	Ожидается в 21:35
+Landed 12:48	Приземлился в 12:48
+	
+You have to fill in this form	Вы должны заполнить эту форму
+Please show me how to fill it in	Покажите, пожалуйста, как это заполнять
+Could I see your passport, please?	Пожалуйста, покажите ваш паспорт
+Here’s my passport	Вот мой паспорт
+Where have you travelled from?	Откуда вы прибыли?
+What is the purpose of your visit?	Какова цель вашей поездки?
+I’m a tourist	Я турист
+I am on vacation	Я в отпуске
+I am on a business trip	Я в командировке
+This is my first visit	Это мой первый приезд
+How long will you be staying here?	Как долго вы собираетесь здесь пробыть?
+Where will you be staying?	Где вы будете жить?
+I plan to stay two weeks	Я собираюсь пробыть здесь две недели
+This is my transit visa	Вот моя транзитная виза
+Could you open your bag, please?	Откройте вашу сумку, пожалуйста
+Do you have anything to declare?	У вас есть что-нибудь, подлежащее декларации?
+You have to pay duty on these items	Вы должны уплатить за это пошлину
+I only have items for personal use	У меня только предметы личного пользования
+I have nothing to declare	Мне нечего декларировать
+	
+What time is the next boat to Belfast?	Во сколько следующий корабль на Белфаст?
+I’d like a two-berth cabin	Я хотел бы двухместную каюту
+I’d like a ticket for a car and two passengers	Я хотел бы билет на машину и двух пассажиров
+I’d like a ticket for a passenger	Я хотел бы билет для пассажира
+How long does the crossing take?	Как долго продлится рейс?
+What time does the ferry arrive in Bergen?	Во сколько паром прибывает в Берген?
+	
+When does it sail?	Во сколько отплытие?
+What time do we board?	Когда начинается посадка?
+Where is the information desk?	Где находится информационный пункт?
+Where is cabin number 235?	Где каюта номер 235?
+Which deck is the bar on?	На какой палубе находится бар?

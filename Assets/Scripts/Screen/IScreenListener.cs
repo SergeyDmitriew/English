@@ -2,5 +2,8 @@
 {
     public interface IScreenListener
     {
+        void OnClickTrue();
+        void OnClickFalse();
+        void OnClickAnswer();
     }
 }
